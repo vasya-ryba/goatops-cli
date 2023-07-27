@@ -1,11 +1,12 @@
 # goatops-cli
 Bash script picking wisdoms from [GoatOps](https://goatops.com) 
+
 https://github.com/binford2k/goatops
 
 ### Installation
 1. Install dependencies
 ```
-# Ubuntu
+# Ubuntu/Debian
 apt -y install libxml2-utils cowsay
 
 # Fedora/RHEL
